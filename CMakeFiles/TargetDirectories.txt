@@ -1,0 +1,3 @@
+/home/jdselsor/Projects/Files/parakeet-metroidvania/CMakeFiles/ParakeetMetroidvania.dir
+/home/jdselsor/Projects/Files/parakeet-metroidvania/CMakeFiles/edit_cache.dir
+/home/jdselsor/Projects/Files/parakeet-metroidvania/CMakeFiles/rebuild_cache.dir
