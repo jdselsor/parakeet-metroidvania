@@ -17,16 +17,6 @@ The Parakeet Metroidvania Engine is a game engine used to make 2D metroidvania s
 This project is built using cmake.
 
 # Useage and Examples
-## Generate a Project
-This generates a project files in the currently directory using the name given.
-```
-parakeet generate [name]
-```
-## Exporting a Project
-This exports a project. It looks for a parakeet_project file and treats what ever folder this file is in as the project's root.
-```
-parakeet export [build_target]
-```
 
 # Documentation/Wiki
 Project documentation is generated using doxygen.
@@ -40,4 +30,7 @@ This project is licensed using the [MIT license](LICENSE).
 ## Version 0.1
 This version is the version that can make a game. It may not be fancy, but a game would be built and exported (mostly likely just a linux build or maybe a linux and windows build) using the engine.
 
+Find a way to include the librarys files in the project when distrubited.
+
 # Acknowledgements
+Thanks to [aminosbh's sdl2 cmake modules](https://github.com/aminosbh/sdl2-cmake-modules/tree/master) I was able to being to set up the cmake envorment.
